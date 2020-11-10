@@ -8,6 +8,10 @@
 
 [Behance] | [LinkedIn] | [Twitter] | [Mail]
 
+```
+Currently looking for an awesome internship from 21/02 till 28/05!
+```
+
 
 [Behance]: https://www.behance.net/jaspervermeul/projects
 [LinkedIn]: https://www.linkedin.com/in/jasper-vermeulen-739b88180/
