@@ -6,7 +6,7 @@
 
 ### Let's get social!
 
-[Behance] | [LinkedIn] | [Twitter] | [Mail]
+[Behance] | [LinkedIn] | [Twitter] | [Mail] | [My Website]
 
 ```
 Currently looking for an awesome internship from 21/02 till 28/05!
@@ -18,3 +18,4 @@ Currently looking for an awesome internship from 21/02 till 28/05!
 [Twitter]: https://twitter.com/Jaspervermm
 [Mail]: mailto:jaspervermeulen@icloud.com
 [Devine]: https://www.devine.be
+[My Website]: https://jaspervermeulen.netlify.app
