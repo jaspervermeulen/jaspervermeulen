@@ -1,9 +1,16 @@
 ### Hey, I'm Jasper 👋
 
-Behance[Behance] | LinkedIn[LinkedIn] | Twitter[Twitter] | Mail[Mail]
+- Currently studying Digital Design and Development @ [Devine]
+- Main interest in front-end development
+- Based in Bruges, Belgium
+
+# Let's get social!
+
+[Behance] | [LinkedIn] | [Twitter] | [Mail]
 
 
 [Behance]: https://www.behance.net/jaspervermeul/projects
 [LinkedIn]: https://www.linkedin.com/in/jasper-vermeulen-739b88180/
 [Twitter]: https://twitter.com/Jaspervermm
 [Mail]: mailto:jaspervermeulen@icloud.com
+[Devine]: https://www.devine.be
