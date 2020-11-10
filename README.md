@@ -1,7 +1,6 @@
-[<img align="bottom" alt="Behance Link" width="24px"  src="icons/Behance.svg" />][Behance]
-[<img align="bottom" alt="LinkedIn Link" width="24px" src="icons/LinkedIn.svg" />][LinkedIn]
-[<img align="bottom" alt="Twitter Link" width="24px"  src="icons/Twitter.svg" />][Twitter]
-[<img align="bottom" alt="Mail Link" width="24px"  src="icons/Mail.svg" />][Mail]
+### Hey, I'm Jasper 👋
+
+Behance | LinkedIn | Twitter | Mail
 
 
 [Behance]: https://www.behance.net/jaspervermeul/projects
