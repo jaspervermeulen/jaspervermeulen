@@ -1,6 +1,6 @@
 ### Hey, I'm Jasper 👋
 
-Behance | LinkedIn | Twitter | Mail
+Behance[Behance] | LinkedIn[LinkedIn] | Twitter[Twitter] | Mail[Mail]
 
 
 [Behance]: https://www.behance.net/jaspervermeul/projects
