@@ -1,1 +1,1 @@
-[<img align="left" alt="codeSTACKr.com" width="22px" src="icons/Behance.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="icons/Behance.svg" />] Behance
