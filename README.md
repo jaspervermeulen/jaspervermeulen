@@ -1,10 +1,10 @@
-### Hey, I'm Jasper 👋
+# Hey, I'm Jasper 👋
 
 - Currently studying Digital Design and Development @ [Devine]
 - Main interest in front-end development
 - Based in Bruges, Belgium
 
-# Let's get social!
+### Let's get social!
 
 [Behance] | [LinkedIn] | [Twitter] | [Mail]
 
