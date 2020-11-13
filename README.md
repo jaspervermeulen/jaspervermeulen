@@ -18,4 +18,4 @@ Currently looking for an awesome internship from 21/02 till 28/05!
 [Twitter]: https://twitter.com/Jaspervermm
 [Mail]: mailto:jaspervermeulen@icloud.com
 [Devine]: https://www.devine.be
-[My Website]: https://jaspervermeulen.netlify.app
+[My Website]: https://jaspervermeulen.be
