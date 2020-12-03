@@ -8,9 +8,9 @@
 
 [Behance] | [LinkedIn] | [Twitter] | [Mail] | [My Website]
 
-```
+
 ~~Currently looking for an awesome internship from 21/02 till 28/05!~~
-```
+
 
 
 [Behance]: https://www.behance.net/jaspervermeul/projects
