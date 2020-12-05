@@ -1,7 +1,7 @@
 # Hey, I'm Jasper 👋
 
 - Currently studying Digital Design and Development @ [Devine]
-- Main interest in front-end development
+- Main interest in front-end / JavaScript development
 - Based in Bruges, Belgium
 
 ### Let's get social!
