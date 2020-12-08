@@ -17,4 +17,4 @@
 [Twitter]: https://twitter.com/Jaspervermm
 [Mail]: mailto:jaspervermeulen@icloud.com
 [Devine]: https://www.devine.be
-[My Website]: https://jaspervermeulen.be
+[My Website]: https://jaspervermeulen.com/
