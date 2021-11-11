@@ -1,6 +1,7 @@
 # Hey, I'm Jasper 👋
 
-- Currently studying Digital Design and Development @ [Devine]
+- I studied Digital Design and Development @ [Devine]
+- Currently working as a JavaScript Developer @ [Wheelhouse]
 - Main interest in front-end / JavaScript development
 - Based in Bruges, Belgium
 
@@ -18,3 +19,4 @@
 [Mail]: mailto:jaspervermeulen@icloud.com
 [Devine]: https://www.devine.be
 [My Website]: https://jaspervermeulen.com/
+[Wheelhouse]: https://www.wheelhouse.be
