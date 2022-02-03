@@ -7,7 +7,7 @@
 
 ### Let's get social!
 
-[Behance] | [LinkedIn] | [Twitter] | [Mail] | [My Website]
+[LinkedIn] | [Twitter] | [Mail] | [My Website]
 
 
 [LinkedIn]: https://www.linkedin.com/in/jasper-vermeulen-👋🏼-739b88180/
