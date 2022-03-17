@@ -1,7 +1,7 @@
 # Hey, I'm Jasper 👋
 
 - I studied Digital Design and Development @ [Devine]
-- Currently working as a JavaScript Developer @ [Wheelhouse]
+- Currently working as a JavaScript Consultant @ [Wheelhouse]
 - Main interest in UX/UI and JavaScript development
 - Based in Bruges, Belgium
 
